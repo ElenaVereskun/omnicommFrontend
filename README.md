@@ -1,1 +1,1 @@
-# omnicommFrontend
+Тестовое задание для компании Omnicomm
